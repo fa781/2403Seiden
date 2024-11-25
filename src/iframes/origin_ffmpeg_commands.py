@@ -59,38 +59,6 @@ class FfmpegCommands:
         print(final_output)
         return final_output    
 
-
-
-
-    '''
-    def get_video_length(self, video_directory):
-        arg_string = f"ffprobe -v error -select_streams v:0 -show_entries stream=nb_frames -of csv=p=0 {video_directory}"
-        args = arg_string.split(' ')
-        print(f"command: {arg_string}")
-        p = subprocess.Popen(args, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        communicate_kwargs = {}
-        out, err = p.communicate(**communicate_kwargs)
-        if p.returncode != 0:
-            print(f"Return code is {p.returncode}, Error: {err.decode()}")
-            raise ValueError("Error extracting video length")
-        try:
-            total_frames = int(out.decode('utf-8').strip())
-        except ValueError:
-            print("Fallback to duration-based frame count estimation")
-            duration_command = f"ffprobe -v error -select_streams v:0 -show_entries format=duration -of csv=p=0 {video_directory}"
-            duration_args = duration_command.split(' ')
-            p = subprocess.Popen(duration_args, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-            out, err = p.communicate(**communicate_kwargs)
-            if p.returncode != 0:
-                raise ValueError("Error extracting video duration")
-            duration = float(out.decode('utf-8').strip())
-            total_frames = int(duration * 60)  # Assuming 60 fps
-        return total_frames    
-    '''
-
-
-
-
     def load_video(self, video_directory):
         ffprobe_command = f"ffprobe -v error -show_entries stream=width,height {video_directory}"
         ffprobe_args = ffprobe_command.split(' ')

@@ -218,28 +218,6 @@ def write_video(images, save_directory):
 
     container.close()
 
-'''
-def write_video(images, save_directory):
-    n_samples, height, width, channels = images.shape
-    container = av.open(save_directory, 'w')
-    stream = container.add_stream("mpeg4", rate=30)
-    stream.width = width
-    stream.height = height
-    stream.pix_fmt = "yuv420p"  # Keep consistent with desired output format
-
-    for i in tqdm(range(n_samples)):
-        img = images[i]
-        frame = av.VideoFrame.from_ndarray(img, format="rgb24")
-        for packet in stream.encode(frame):
-            container.mux(packet)
-
-    for packet in stream.encode():  # Flush
-        container.mux(packet)
-
-    container.close()
-'''
-
-
 def extract_key_frames(directory):
     # content = av.datasets.curated('pexels/time-lapse-video-of-night-sky-857195.mp4')
     count = 0
