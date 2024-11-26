@@ -1,14 +1,7 @@
-# import os
-# import numpy as np
-# from src.iframes.pyav_utils import PYAV_wrapper
-# from src.iframes.ffmpeg_commands import FfmpegCommands
-# import cv2
-
-
 import os
 import numpy as np
-from src.iframes.origin_ffmpeg_commands import FfmpegCommands
-from src.iframes.origin_pyav_utils import PYAV_wrapper
+from src.iframes.ffmpeg_commands import FfmpegCommands
+from src.iframes.pyav_utils import PYAV_wrapper
 from PIL import Image
 
 def input_processing(video_path, output_dir, sampling_ratio):
@@ -48,8 +41,7 @@ def input_processing(video_path, output_dir, sampling_ratio):
     sampled_frame_indices = reconciled_indices[sampled_indices]
     sampled_frames = keyframes[sampled_indices]
     sampled_timestamps = [keyframe_timestamps[i] for i in sampled_indices]
-    # sampled_timestamps = [index / fps for index in sampled_frame_indices]  # Convert to seconds
-
+    
     print(f"Sampling ratio: {sampling_ratio}, Total Samples: {num_samples}")
 
     # Save sampled frames

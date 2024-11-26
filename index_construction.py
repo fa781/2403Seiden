@@ -1,8 +1,6 @@
-
 import torch
 from transformers import GroundingDinoForObjectDetection, AutoProcessor
 import gc
-import psutil
 import json
 import os
 
@@ -15,105 +13,67 @@ def construct_index(frames, frame_indices, timestamps, query, outputJSON):
         frame_indices (list of int): Indices of sampled frames.
         timestamps (list of float): Corresponding timestamps for sampled frames.
         query (str): Query text for the GroundingDINO model.
+        outputJSON (str): Path to save the constructed index in JSON format.
 
     Returns:
         dict: The constructed index containing detected objects and metadata.
     """
     print("Running index construction...")
 
-    try:
-        print("Loading GroundingDINO model and processor...")
-        model = GroundingDinoForObjectDetection.from_pretrained("IDEA-Research/grounding-dino-tiny")
-        processor = AutoProcessor.from_pretrained("IDEA-Research/grounding-dino-tiny")
-        print("Model and processor loaded successfully.")
-    except Exception as e:
-        print("Error loading GroundingDINO model or processor. Check the model identifier and authentication.")
-        raise e
+    # Load model and processor
+    print("Loading GroundingDINO model and processor...")
+    model = GroundingDinoForObjectDetection.from_pretrained("IDEA-Research/grounding-dino-tiny").to("cuda" if torch.cuda.is_available() else "cpu")
+    processor = AutoProcessor.from_pretrained("IDEA-Research/grounding-dino-tiny")
+    print("Model and processor loaded successfully.")
 
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    model = model.to(device)
-    print(f"Using device: {device}")
-    
-    # Default query if not provided
-    if not query:
-        query = "Find all objects"
-    print(f"Query: {query}")
+    constructed_index = {}
 
-    # Initialize the index
-    constructed_index = {
-        "frames": [],
-        "objects": [],
-        "features": [],
-    }
+    for i, frame in enumerate(frames):
+        frame_index = frame_indices[i]
+        timestamp = timestamps[i]
 
-    # Batch size (adjust based on GPU memory)
-    batch_size = 1  
-    print(f"Batch size set to: {batch_size}")
-
-    try:
-        for batch_start in range(0, len(frames), batch_size):
-            batch_end = min(batch_start + batch_size, len(frames))
-            batch_frames = frames[batch_start:batch_end]
-            batch_indices = frame_indices[batch_start:batch_end]
-            batch_timestamps = timestamps[batch_start:batch_end]
-
-            print(f"Processing batch starting at frame {batch_start}...")
-
-            # Preprocess frames
-            inputs = processor(images=batch_frames, text=query, return_tensors="pt")
-            inputs = {key: val.to(device) for key, val in inputs.items()}  # Move inputs to device
-
+        print(f"Processing frame {frame_index} ...")
+        try:
+            # Preprocess frame
+            inputs = processor(images=[frame], text=query, return_tensors="pt").to("cuda" if torch.cuda.is_available() else "cpu")
+            
             # Run inference
             outputs = model(**inputs)
+            
+            # Extract logits and boxes
+            logits = outputs.logits[0].detach().cpu().numpy()
+            boxes = outputs.pred_boxes[0].detach().cpu().numpy()
+            
+            # Map logits to probabilities and COCO labels
+            probabilities = torch.softmax(torch.tensor(logits), dim=1).numpy()
+            detected_objects = {}
+            for j, box in enumerate(boxes):
+                label_idx = logits[j].argmax()
+                label = processor.tokenizer.decode([label_idx])  # Adjust to match COCO label extraction
+                probability = probabilities[j][label_idx]
+                
+                if probability > 0.35:  # Filter low-confidence detections
+                    detected_objects[label] = float(probability)
 
-            # Process outputs
-            for i, index in enumerate(batch_indices):
-                print(f"Processing frame {index} (timestamp: {batch_timestamps[i]:.2f}s)")
-                try:
-                    logits = outputs.logits[i].detach().cpu().numpy()
-                    boxes = outputs.pred_boxes[i].detach().cpu().numpy()
+            # Add to index
+            constructed_index[frame_index] = {
+                "frame index": frame_index,
+                "objects": detected_objects,
+            }
 
-                    # Debugging output
-                    # print(f"Debug - Frame {index}: Logits shape: {logits.shape}, Boxes shape: {boxes.shape}")
-                    # print(f"Sample logits: {logits[:5]}")  # Print a small sample for inspection
-                    # print(f"Sample boxes: {boxes[:5]}")  # Print a small sample for inspection
+            print(f"Frame {frame_index}: {len(detected_objects)} objects detected.")
+        
+        except Exception as e:
+            print(f"Error processing frame {frame_index}: {e}")
 
-                    # Append to index
-                    constructed_index["frames"].append(index)
-                    constructed_index["objects"].append({
-                        "logits": logits.tolist(),
-                        "boxes": boxes.tolist(),
-                    })
-                    constructed_index["features"].append({
-                        "timestamp": batch_timestamps[i],
-                        "frame_index": index,
-                    })
-                    print(f"Appending index: {index}, logits length: {len(logits)}, boxes length: {len(boxes)}")
+        # Clear GPU memory
+        del inputs, outputs
+        torch.cuda.empty_cache()
 
-                except Exception as e:
-                    print(f"Error processing frame {index} (timestamp: {batch_timestamps[i]:.2f}s). Skipping... Error: {str(e)}")
+    # Save constructed index to JSON
+    os.makedirs(os.path.dirname(outputJSON), exist_ok=True)
+    with open(outputJSON, "w") as f:
+        json.dump(constructed_index, f, indent=4)
+    print(f"Index saved to {outputJSON}")
 
-            # Clear memory
-            del inputs, outputs
-            gc.collect()
-            if torch.cuda.is_available():
-                torch.cuda.empty_cache()
-
-    except RuntimeError as e:
-        print(f"An error occurred during index construction: {type(e).__name__} - {str(e)}")
-
-    print("Index construction completed.")
-    print(f"Constructed index contains {len(constructed_index['frames'])} entries.")
-
-    # with open("constructed_index_details.txt", "w") as file:
-    #     file.write(str(constructed_index))
-    # print("Index details saved to constructed_index_details.txt")
-
-    # Save the index to a JSON file
-    output_dir = os.path.dirname(outputJSON)
-    if output_dir:  # Only create directories if there's a valid path
-        os.makedirs(output_dir, exist_ok=True)
-        with open(outputJSON, "w") as f:
-            json.dump(constructed_index, f, indent=4)
-        print(f"Index saved to {outputJSON}")
     return constructed_index
