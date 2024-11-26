@@ -33,12 +33,6 @@ def main():
     # print(f"Sampled frame timestamps: {sampled_timestamps}")
     print(f"Sampled frame timestamps (in seconds): {[timestamp / fps for timestamp in sampled_timestamps]}")
 
-    '''
-    preprocessed_frames = preprocess_frames(sampled_frames)
-
-    print("\n--- Preprocessing Results ---")
-    print(f"Number of preprocessed frames: {len(preprocessed_frames)}")    
-    '''
     # Step 2 index construction
     print("Running index construction...")
     constructed_index = construct_index(sampled_frames, sampled_frame_indices, sampled_timestamps, query, output)
