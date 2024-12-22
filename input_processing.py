@@ -13,7 +13,6 @@ def input_processing(video_path, output_dir, sampling_ratio):
     :param sampling_ratio: Fraction of I-frames to sample (1.0 = all frames)
     :return: sampled_frames, sampled_frame_indices, sampled_timestamps
     """
-    print("Running input_processing...")
 
     # Initialize helpers
     ffmpeg_helper = FfmpegCommands()
