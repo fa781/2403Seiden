@@ -34,14 +34,16 @@ def construct_index(sampled_frames, frame_indices, timestamps, query, outputJSON
             target_sizes=[pil_image.size[::-1]]
         )
 
-        # Extract scores for this frame
+        # Extract boxes and scores for this frame
+        boxes = results[0]["boxes"].tolist() if "boxes" in results[0] else []
         frame_scores = results[0]["scores"].tolist() if "scores" in results[0] else []
 
         # Append results for this frame to the dictionary
         constructed_index["sampled_frames"].append({
             "frame_index": frame_indices[i],
             "timestamp": timestamps[i],
-            "scores": frame_scores
+            "scores": frame_scores,
+            "boxes": boxes
         })
 
     # Save results to JSON file
