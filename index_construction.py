@@ -3,7 +3,7 @@ from PIL import Image
 import torch
 from transformers import AutoProcessor, AutoModelForZeroShotObjectDetection
 
-def construct_index(sampled_frames, frame_indices, timestamps, query, outputJSON):
+def construct_index(sampled_frames, frame_indices, query, outputJSON):
     # Model setup
     model_id = "IDEA-Research/grounding-dino-base"
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -41,7 +41,6 @@ def construct_index(sampled_frames, frame_indices, timestamps, query, outputJSON
         # Append results for this frame to the dictionary
         constructed_index["sampled_frames"].append({
             "frame_index": frame_indices[i],
-            "timestamp": timestamps[i],
             "scores": frame_scores,
             "boxes": boxes
         })
