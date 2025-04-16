@@ -57,4 +57,9 @@ def input_processing(video_path, output_dir, sampling_ratio):
             # print(f"Saving frame {frame_id} to {output_path}")
             img.save(output_path)
 
-    return sampled_frames, sampled_frame_indices.tolist(), sampled_timestamps, reconciled_indices.tolist()
+    # Get the full video length (total number of frames)
+    total_frames = pyav_helper.get_video_length()
+    full_frame_indices = list(range(total_frames))
+    print(f"Total number of frames in video: {total_frames}")
+
+    return sampled_frames, sampled_frame_indices.tolist(), sampled_timestamps, reconciled_indices.tolist(), full_frame_indices

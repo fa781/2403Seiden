@@ -72,6 +72,9 @@ def MAB_Sampling(i_frame_indices, sampled_frame_indices, constructed_index, quer
         except ValueError:
             print("No valid clusters available. Stopping MAB sampling.")
             break
+    
+    # Sort the constructed index by frame index before saving to JSON
+    constructed_index["sampled_frames"].sort(key=lambda x: x["frame_index"])
 
     # Save the updated constructed index
     print("Saving updated constructed index to file...")
