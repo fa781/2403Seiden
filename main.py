@@ -8,11 +8,11 @@ from AQP import run_queries
 def main():
     
     # Define paths and parameters
-    video_path = "./videoInput/hong_kong_airport7.mp4"        # Input video
+    video_path = "./videoInput/hong_kong_airport_demo_data.mp4"        # Input video
     output_frame_dir = "./output/frames"            # Output Directory
     model_budget = 40                                   # Total budget on how many frames going through the model 
     sampling_ratio = 0.8                        # Anchor Ratio: Fraction of frames to sample
-    query = "a yellow bag."                          # Query for GroundingDINO testing
+    query = "a suitcase."                          # Query for GroundingDINO testing
     output = "./output/constructed_index.json"      # Path for output index JSON file
     full_index_path="output/full_index.json"
 

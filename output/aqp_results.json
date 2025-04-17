@@ -1,0 +1,3870 @@
+{
+    "top_k": [
+        {
+            "frame_index": 1868,
+            "score": 0.7043351531028748,
+            "propagated": false
+        },
+        {
+            "frame_index": 1867,
+            "score": 0.7029499180222812,
+            "propagated": true
+        },
+        {
+            "frame_index": 1869,
+            "score": 0.7024601915557134,
+            "propagated": true
+        },
+        {
+            "frame_index": 1866,
+            "score": 0.7015646829416877,
+            "propagated": true
+        },
+        {
+            "frame_index": 1870,
+            "score": 0.700585230008552,
+            "propagated": true
+        },
+        {
+            "frame_index": 1865,
+            "score": 0.7001794478610942,
+            "propagated": true
+        },
+        {
+            "frame_index": 1864,
+            "score": 0.6987942127805007,
+            "propagated": true
+        },
+        {
+            "frame_index": 1871,
+            "score": 0.6987102684613905,
+            "propagated": true
+        },
+        {
+            "frame_index": 1863,
+            "score": 0.6974089776999072,
+            "propagated": true
+        },
+        {
+            "frame_index": 1872,
+            "score": 0.6968353069142291,
+            "propagated": true
+        },
+        {
+            "frame_index": 1862,
+            "score": 0.6960237426193137,
+            "propagated": true
+        },
+        {
+            "frame_index": 1873,
+            "score": 0.6949603453670677,
+            "propagated": true
+        },
+        {
+            "frame_index": 1861,
+            "score": 0.6946385075387203,
+            "propagated": true
+        },
+        {
+            "frame_index": 1860,
+            "score": 0.6932532724581266,
+            "propagated": true
+        },
+        {
+            "frame_index": 1874,
+            "score": 0.6930853838199064,
+            "propagated": true
+        },
+        {
+            "frame_index": 1859,
+            "score": 0.6918680373775332,
+            "propagated": true
+        },
+        {
+            "frame_index": 1875,
+            "score": 0.691210422272745,
+            "propagated": true
+        },
+        {
+            "frame_index": 1858,
+            "score": 0.6904828022969396,
+            "propagated": true
+        },
+        {
+            "frame_index": 1876,
+            "score": 0.6893354607255835,
+            "propagated": true
+        },
+        {
+            "frame_index": 1857,
+            "score": 0.6890975672163462,
+            "propagated": true
+        }
+    ],
+    "importance_sampled": [
+        {
+            "frame_index": 2700,
+            "score": 0.448106586933136,
+            "propagated": true
+        },
+        {
+            "frame_index": 2527,
+            "score": 0.462504031103954,
+            "propagated": true
+        },
+        {
+            "frame_index": 653,
+            "score": 0.4395059745170568,
+            "propagated": true
+        },
+        {
+            "frame_index": 2565,
+            "score": 0.4570871709208739,
+            "propagated": true
+        },
+        {
+            "frame_index": 1283,
+            "score": 0.3640556809933562,
+            "propagated": true
+        },
+        {
+            "frame_index": 599,
+            "score": 0.4439454016912925,
+            "propagated": true
+        },
+        {
+            "frame_index": 1782,
+            "score": 0.5852049361718328,
+            "propagated": true
+        },
+        {
+            "frame_index": 496,
+            "score": 0.45189569733644785,
+            "propagated": true
+        },
+        {
+            "frame_index": 714,
+            "score": 0.43775227077697454,
+            "propagated": true
+        },
+        {
+            "frame_index": 119,
+            "score": 0.6416272403378236,
+            "propagated": true
+        },
+        {
+            "frame_index": 1542,
+            "score": 0.4701016764891775,
+            "propagated": true
+        },
+        {
+            "frame_index": 2267,
+            "score": 0.30978546167413396,
+            "propagated": true
+        },
+        {
+            "frame_index": 2436,
+            "score": 0.4765852674057609,
+            "propagated": true
+        },
+        {
+            "frame_index": 127,
+            "score": 0.6434049833762018,
+            "propagated": true
+        },
+        {
+            "frame_index": 367,
+            "score": 0.44259099662303925,
+            "propagated": true
+        },
+        {
+            "frame_index": 1555,
+            "score": 0.5171118441380952,
+            "propagated": true
+        },
+        {
+            "frame_index": 1584,
+            "score": 0.5423049864016081,
+            "propagated": true
+        },
+        {
+            "frame_index": 2445,
+            "score": 0.4750527384641923,
+            "propagated": true
+        },
+        {
+            "frame_index": 1646,
+            "score": 0.5195126753104361,
+            "propagated": true
+        },
+        {
+            "frame_index": 2252,
+            "score": 0.26087196772558646,
+            "propagated": true
+        }
+    ],
+    "thresholded": [
+        {
+            "frame_index": 0,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 1,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 2,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 3,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 4,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 5,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 6,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 7,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 8,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 9,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 10,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 11,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 12,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 13,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 14,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 15,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 16,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 17,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 18,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 19,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 20,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 21,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 22,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 23,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 24,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 25,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 26,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 27,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 28,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 29,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 30,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 31,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 32,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 33,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 34,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 35,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 36,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 37,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 38,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 39,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 40,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 41,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 42,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 43,
+            "score": 0.6249608993530273,
+            "propagated": true
+        },
+        {
+            "frame_index": 44,
+            "score": 0.6249608993530273,
+            "propagated": false
+        },
+        {
+            "frame_index": 45,
+            "score": 0.6251831172328246,
+            "propagated": true
+        },
+        {
+            "frame_index": 46,
+            "score": 0.6254053351126219,
+            "propagated": true
+        },
+        {
+            "frame_index": 47,
+            "score": 0.6256275529924192,
+            "propagated": true
+        },
+        {
+            "frame_index": 48,
+            "score": 0.6258497708722165,
+            "propagated": true
+        },
+        {
+            "frame_index": 49,
+            "score": 0.6260719887520138,
+            "propagated": true
+        },
+        {
+            "frame_index": 50,
+            "score": 0.626294206631811,
+            "propagated": true
+        },
+        {
+            "frame_index": 51,
+            "score": 0.6265164245116083,
+            "propagated": true
+        },
+        {
+            "frame_index": 52,
+            "score": 0.6267386423914056,
+            "propagated": true
+        },
+        {
+            "frame_index": 53,
+            "score": 0.6269608602712029,
+            "propagated": true
+        },
+        {
+            "frame_index": 54,
+            "score": 0.6271830781510002,
+            "propagated": true
+        },
+        {
+            "frame_index": 55,
+            "score": 0.6274052960307974,
+            "propagated": true
+        },
+        {
+            "frame_index": 56,
+            "score": 0.6276275139105948,
+            "propagated": true
+        },
+        {
+            "frame_index": 57,
+            "score": 0.627849731790392,
+            "propagated": true
+        },
+        {
+            "frame_index": 58,
+            "score": 0.6280719496701893,
+            "propagated": true
+        },
+        {
+            "frame_index": 59,
+            "score": 0.6282941675499866,
+            "propagated": true
+        },
+        {
+            "frame_index": 60,
+            "score": 0.6285163854297838,
+            "propagated": true
+        },
+        {
+            "frame_index": 61,
+            "score": 0.6287386033095812,
+            "propagated": true
+        },
+        {
+            "frame_index": 62,
+            "score": 0.6289608211893785,
+            "propagated": true
+        },
+        {
+            "frame_index": 63,
+            "score": 0.6291830390691757,
+            "propagated": true
+        },
+        {
+            "frame_index": 64,
+            "score": 0.629405256948973,
+            "propagated": true
+        },
+        {
+            "frame_index": 65,
+            "score": 0.6296274748287702,
+            "propagated": true
+        },
+        {
+            "frame_index": 66,
+            "score": 0.6298496927085676,
+            "propagated": true
+        },
+        {
+            "frame_index": 67,
+            "score": 0.6300719105883649,
+            "propagated": true
+        },
+        {
+            "frame_index": 68,
+            "score": 0.6302941284681621,
+            "propagated": true
+        },
+        {
+            "frame_index": 69,
+            "score": 0.6305163463479594,
+            "propagated": true
+        },
+        {
+            "frame_index": 70,
+            "score": 0.6307385642277566,
+            "propagated": true
+        },
+        {
+            "frame_index": 71,
+            "score": 0.630960782107554,
+            "propagated": true
+        },
+        {
+            "frame_index": 72,
+            "score": 0.6311829999873513,
+            "propagated": true
+        },
+        {
+            "frame_index": 73,
+            "score": 0.6314052178671485,
+            "propagated": true
+        },
+        {
+            "frame_index": 74,
+            "score": 0.6316274357469458,
+            "propagated": true
+        },
+        {
+            "frame_index": 75,
+            "score": 0.6318496536267432,
+            "propagated": true
+        },
+        {
+            "frame_index": 76,
+            "score": 0.6320718715065404,
+            "propagated": true
+        },
+        {
+            "frame_index": 77,
+            "score": 0.6322940893863377,
+            "propagated": true
+        },
+        {
+            "frame_index": 78,
+            "score": 0.632516307266135,
+            "propagated": true
+        },
+        {
+            "frame_index": 79,
+            "score": 0.6327385251459322,
+            "propagated": true
+        },
+        {
+            "frame_index": 80,
+            "score": 0.6329607430257296,
+            "propagated": true
+        },
+        {
+            "frame_index": 81,
+            "score": 0.6331829609055268,
+            "propagated": true
+        },
+        {
+            "frame_index": 82,
+            "score": 0.6334051787853241,
+            "propagated": true
+        },
+        {
+            "frame_index": 83,
+            "score": 0.6336273966651214,
+            "propagated": true
+        },
+        {
+            "frame_index": 84,
+            "score": 0.6338496145449186,
+            "propagated": true
+        },
+        {
+            "frame_index": 85,
+            "score": 0.634071832424716,
+            "propagated": true
+        },
+        {
+            "frame_index": 86,
+            "score": 0.6342940503045132,
+            "propagated": true
+        },
+        {
+            "frame_index": 87,
+            "score": 0.6345162681843105,
+            "propagated": true
+        },
+        {
+            "frame_index": 88,
+            "score": 0.6347384860641078,
+            "propagated": true
+        },
+        {
+            "frame_index": 89,
+            "score": 0.634960703943905,
+            "propagated": true
+        },
+        {
+            "frame_index": 90,
+            "score": 0.6351829218237024,
+            "propagated": true
+        },
+        {
+            "frame_index": 91,
+            "score": 0.6354051397034997,
+            "propagated": true
+        },
+        {
+            "frame_index": 92,
+            "score": 0.6356273575832969,
+            "propagated": true
+        },
+        {
+            "frame_index": 93,
+            "score": 0.6358495754630942,
+            "propagated": true
+        },
+        {
+            "frame_index": 94,
+            "score": 0.6360717933428915,
+            "propagated": true
+        },
+        {
+            "frame_index": 95,
+            "score": 0.6362940112226888,
+            "propagated": true
+        },
+        {
+            "frame_index": 96,
+            "score": 0.6365162291024861,
+            "propagated": true
+        },
+        {
+            "frame_index": 97,
+            "score": 0.6367384469822833,
+            "propagated": true
+        },
+        {
+            "frame_index": 98,
+            "score": 0.6369606648620806,
+            "propagated": true
+        },
+        {
+            "frame_index": 99,
+            "score": 0.637182882741878,
+            "propagated": true
+        },
+        {
+            "frame_index": 100,
+            "score": 0.6374051006216752,
+            "propagated": true
+        },
+        {
+            "frame_index": 101,
+            "score": 0.6376273185014725,
+            "propagated": true
+        },
+        {
+            "frame_index": 102,
+            "score": 0.6378495363812697,
+            "propagated": true
+        },
+        {
+            "frame_index": 103,
+            "score": 0.638071754261067,
+            "propagated": true
+        },
+        {
+            "frame_index": 104,
+            "score": 0.6382939721408644,
+            "propagated": true
+        },
+        {
+            "frame_index": 105,
+            "score": 0.6385161900206616,
+            "propagated": true
+        },
+        {
+            "frame_index": 106,
+            "score": 0.6387384079004589,
+            "propagated": true
+        },
+        {
+            "frame_index": 107,
+            "score": 0.6389606257802561,
+            "propagated": true
+        },
+        {
+            "frame_index": 108,
+            "score": 0.6391828436600534,
+            "propagated": true
+        },
+        {
+            "frame_index": 109,
+            "score": 0.6394050615398508,
+            "propagated": true
+        },
+        {
+            "frame_index": 110,
+            "score": 0.639627279419648,
+            "propagated": true
+        },
+        {
+            "frame_index": 111,
+            "score": 0.6398494972994453,
+            "propagated": true
+        },
+        {
+            "frame_index": 112,
+            "score": 0.6400717151792426,
+            "propagated": true
+        },
+        {
+            "frame_index": 113,
+            "score": 0.6402939330590399,
+            "propagated": true
+        },
+        {
+            "frame_index": 114,
+            "score": 0.6405161509388372,
+            "propagated": true
+        },
+        {
+            "frame_index": 115,
+            "score": 0.6407383688186344,
+            "propagated": true
+        },
+        {
+            "frame_index": 116,
+            "score": 0.6409605866984317,
+            "propagated": true
+        },
+        {
+            "frame_index": 117,
+            "score": 0.641182804578229,
+            "propagated": true
+        },
+        {
+            "frame_index": 118,
+            "score": 0.6414050224580263,
+            "propagated": true
+        },
+        {
+            "frame_index": 119,
+            "score": 0.6416272403378236,
+            "propagated": true
+        },
+        {
+            "frame_index": 120,
+            "score": 0.6418494582176208,
+            "propagated": true
+        },
+        {
+            "frame_index": 121,
+            "score": 0.6420716760974181,
+            "propagated": true
+        },
+        {
+            "frame_index": 122,
+            "score": 0.6422938939772154,
+            "propagated": true
+        },
+        {
+            "frame_index": 123,
+            "score": 0.6425161118570127,
+            "propagated": true
+        },
+        {
+            "frame_index": 124,
+            "score": 0.64273832973681,
+            "propagated": true
+        },
+        {
+            "frame_index": 125,
+            "score": 0.6429605476166073,
+            "propagated": true
+        },
+        {
+            "frame_index": 126,
+            "score": 0.6431827654964045,
+            "propagated": true
+        },
+        {
+            "frame_index": 127,
+            "score": 0.6434049833762018,
+            "propagated": true
+        },
+        {
+            "frame_index": 128,
+            "score": 0.6436272012559991,
+            "propagated": true
+        },
+        {
+            "frame_index": 129,
+            "score": 0.6438494191357964,
+            "propagated": true
+        },
+        {
+            "frame_index": 130,
+            "score": 0.6440716370155937,
+            "propagated": true
+        },
+        {
+            "frame_index": 131,
+            "score": 0.6442938548953909,
+            "propagated": true
+        },
+        {
+            "frame_index": 132,
+            "score": 0.6445160727751883,
+            "propagated": true
+        },
+        {
+            "frame_index": 133,
+            "score": 0.6447382906549856,
+            "propagated": true
+        },
+        {
+            "frame_index": 134,
+            "score": 0.6449605085347828,
+            "propagated": true
+        },
+        {
+            "frame_index": 135,
+            "score": 0.6451827264145801,
+            "propagated": true
+        },
+        {
+            "frame_index": 136,
+            "score": 0.6454049442943773,
+            "propagated": true
+        },
+        {
+            "frame_index": 137,
+            "score": 0.6456271621741747,
+            "propagated": true
+        },
+        {
+            "frame_index": 138,
+            "score": 0.645849380053972,
+            "propagated": true
+        },
+        {
+            "frame_index": 139,
+            "score": 0.6460715979337692,
+            "propagated": true
+        },
+        {
+            "frame_index": 140,
+            "score": 0.6462938158135665,
+            "propagated": true
+        },
+        {
+            "frame_index": 141,
+            "score": 0.6465160336933637,
+            "propagated": true
+        },
+        {
+            "frame_index": 142,
+            "score": 0.6467382515731611,
+            "propagated": true
+        },
+        {
+            "frame_index": 143,
+            "score": 0.6469604694529584,
+            "propagated": true
+        },
+        {
+            "frame_index": 144,
+            "score": 0.6471826873327556,
+            "propagated": true
+        },
+        {
+            "frame_index": 145,
+            "score": 0.6474049052125529,
+            "propagated": true
+        },
+        {
+            "frame_index": 146,
+            "score": 0.6476271230923502,
+            "propagated": true
+        },
+        {
+            "frame_index": 147,
+            "score": 0.6478493409721475,
+            "propagated": true
+        },
+        {
+            "frame_index": 148,
+            "score": 0.6480715588519448,
+            "propagated": true
+        },
+        {
+            "frame_index": 149,
+            "score": 0.648293776731742,
+            "propagated": true
+        },
+        {
+            "frame_index": 150,
+            "score": 0.6485159946115393,
+            "propagated": true
+        },
+        {
+            "frame_index": 151,
+            "score": 0.6487382124913367,
+            "propagated": true
+        },
+        {
+            "frame_index": 152,
+            "score": 0.6489604303711339,
+            "propagated": true
+        },
+        {
+            "frame_index": 153,
+            "score": 0.6491826482509312,
+            "propagated": true
+        },
+        {
+            "frame_index": 154,
+            "score": 0.6494048661307285,
+            "propagated": true
+        },
+        {
+            "frame_index": 155,
+            "score": 0.6496270840105257,
+            "propagated": true
+        },
+        {
+            "frame_index": 156,
+            "score": 0.6498493018903231,
+            "propagated": true
+        },
+        {
+            "frame_index": 157,
+            "score": 0.6500715197701203,
+            "propagated": true
+        },
+        {
+            "frame_index": 158,
+            "score": 0.6502937376499176,
+            "propagated": true
+        },
+        {
+            "frame_index": 159,
+            "score": 0.6505159555297149,
+            "propagated": true
+        },
+        {
+            "frame_index": 160,
+            "score": 0.6507381734095121,
+            "propagated": true
+        },
+        {
+            "frame_index": 161,
+            "score": 0.6509603912893095,
+            "propagated": true
+        },
+        {
+            "frame_index": 162,
+            "score": 0.6511826091691068,
+            "propagated": true
+        },
+        {
+            "frame_index": 163,
+            "score": 0.651404827048904,
+            "propagated": true
+        },
+        {
+            "frame_index": 164,
+            "score": 0.6516270449287013,
+            "propagated": true
+        },
+        {
+            "frame_index": 165,
+            "score": 0.6518492628084985,
+            "propagated": true
+        },
+        {
+            "frame_index": 166,
+            "score": 0.6520714806882959,
+            "propagated": true
+        },
+        {
+            "frame_index": 167,
+            "score": 0.6522936985680932,
+            "propagated": true
+        },
+        {
+            "frame_index": 168,
+            "score": 0.6525159164478904,
+            "propagated": true
+        },
+        {
+            "frame_index": 169,
+            "score": 0.6527381343276877,
+            "propagated": true
+        },
+        {
+            "frame_index": 170,
+            "score": 0.652960352207485,
+            "propagated": true
+        },
+        {
+            "frame_index": 171,
+            "score": 0.6531825700872823,
+            "propagated": true
+        },
+        {
+            "frame_index": 172,
+            "score": 0.6534047879670796,
+            "propagated": true
+        },
+        {
+            "frame_index": 173,
+            "score": 0.6536270058468768,
+            "propagated": true
+        },
+        {
+            "frame_index": 174,
+            "score": 0.6538492237266741,
+            "propagated": true
+        },
+        {
+            "frame_index": 175,
+            "score": 0.6540714416064715,
+            "propagated": true
+        },
+        {
+            "frame_index": 176,
+            "score": 0.6542936594862687,
+            "propagated": true
+        },
+        {
+            "frame_index": 177,
+            "score": 0.654515877366066,
+            "propagated": true
+        },
+        {
+            "frame_index": 178,
+            "score": 0.6547380952458632,
+            "propagated": true
+        },
+        {
+            "frame_index": 179,
+            "score": 0.6549603131256605,
+            "propagated": true
+        },
+        {
+            "frame_index": 180,
+            "score": 0.6551825310054579,
+            "propagated": true
+        },
+        {
+            "frame_index": 181,
+            "score": 0.6554047488852551,
+            "propagated": true
+        },
+        {
+            "frame_index": 182,
+            "score": 0.6556269667650524,
+            "propagated": true
+        },
+        {
+            "frame_index": 183,
+            "score": 0.6558491846448496,
+            "propagated": true
+        },
+        {
+            "frame_index": 184,
+            "score": 0.6560714025246469,
+            "propagated": true
+        },
+        {
+            "frame_index": 185,
+            "score": 0.6562936204044443,
+            "propagated": true
+        },
+        {
+            "frame_index": 186,
+            "score": 0.6565158382842415,
+            "propagated": true
+        },
+        {
+            "frame_index": 187,
+            "score": 0.6567380561640388,
+            "propagated": true
+        },
+        {
+            "frame_index": 188,
+            "score": 0.6569602740438361,
+            "propagated": true
+        },
+        {
+            "frame_index": 189,
+            "score": 0.6571824919236334,
+            "propagated": true
+        },
+        {
+            "frame_index": 190,
+            "score": 0.6574047098034307,
+            "propagated": true
+        },
+        {
+            "frame_index": 191,
+            "score": 0.657626927683228,
+            "propagated": true
+        },
+        {
+            "frame_index": 192,
+            "score": 0.6578491455630252,
+            "propagated": true
+        },
+        {
+            "frame_index": 193,
+            "score": 0.6580713634428225,
+            "propagated": true
+        },
+        {
+            "frame_index": 194,
+            "score": 0.6582935813226198,
+            "propagated": true
+        },
+        {
+            "frame_index": 195,
+            "score": 0.6585157992024171,
+            "propagated": true
+        },
+        {
+            "frame_index": 196,
+            "score": 0.6587380170822144,
+            "propagated": false
+        },
+        {
+            "frame_index": 197,
+            "score": 0.6573069810279106,
+            "propagated": true
+        },
+        {
+            "frame_index": 198,
+            "score": 0.6558759449736068,
+            "propagated": true
+        },
+        {
+            "frame_index": 199,
+            "score": 0.6544449089193031,
+            "propagated": true
+        },
+        {
+            "frame_index": 200,
+            "score": 0.6530138728649992,
+            "propagated": true
+        },
+        {
+            "frame_index": 201,
+            "score": 0.6515828368106955,
+            "propagated": true
+        },
+        {
+            "frame_index": 202,
+            "score": 0.6501518007563917,
+            "propagated": true
+        },
+        {
+            "frame_index": 203,
+            "score": 0.648720764702088,
+            "propagated": true
+        },
+        {
+            "frame_index": 204,
+            "score": 0.6472897286477842,
+            "propagated": true
+        },
+        {
+            "frame_index": 205,
+            "score": 0.6458586925934804,
+            "propagated": true
+        },
+        {
+            "frame_index": 206,
+            "score": 0.6444276565391767,
+            "propagated": true
+        },
+        {
+            "frame_index": 207,
+            "score": 0.6429966204848728,
+            "propagated": true
+        },
+        {
+            "frame_index": 208,
+            "score": 0.6415655844305691,
+            "propagated": true
+        },
+        {
+            "frame_index": 209,
+            "score": 0.6401345483762654,
+            "propagated": true
+        },
+        {
+            "frame_index": 210,
+            "score": 0.6387035123219615,
+            "propagated": true
+        },
+        {
+            "frame_index": 211,
+            "score": 0.6372724762676578,
+            "propagated": true
+        },
+        {
+            "frame_index": 212,
+            "score": 0.635841440213354,
+            "propagated": true
+        },
+        {
+            "frame_index": 213,
+            "score": 0.6344104041590503,
+            "propagated": true
+        },
+        {
+            "frame_index": 214,
+            "score": 0.6329793681047464,
+            "propagated": true
+        },
+        {
+            "frame_index": 215,
+            "score": 0.6315483320504427,
+            "propagated": true
+        },
+        {
+            "frame_index": 216,
+            "score": 0.630117295996139,
+            "propagated": true
+        },
+        {
+            "frame_index": 217,
+            "score": 0.6286862599418351,
+            "propagated": true
+        },
+        {
+            "frame_index": 218,
+            "score": 0.6272552238875314,
+            "propagated": true
+        },
+        {
+            "frame_index": 219,
+            "score": 0.6258241878332276,
+            "propagated": true
+        },
+        {
+            "frame_index": 220,
+            "score": 0.6243931517789238,
+            "propagated": true
+        },
+        {
+            "frame_index": 221,
+            "score": 0.62296211572462,
+            "propagated": true
+        },
+        {
+            "frame_index": 222,
+            "score": 0.6215310796703163,
+            "propagated": true
+        },
+        {
+            "frame_index": 223,
+            "score": 0.6201000436160126,
+            "propagated": true
+        },
+        {
+            "frame_index": 224,
+            "score": 0.6186690075617087,
+            "propagated": true
+        },
+        {
+            "frame_index": 225,
+            "score": 0.617237971507405,
+            "propagated": true
+        },
+        {
+            "frame_index": 226,
+            "score": 0.6158069354531012,
+            "propagated": true
+        },
+        {
+            "frame_index": 227,
+            "score": 0.6143758993987974,
+            "propagated": true
+        },
+        {
+            "frame_index": 228,
+            "score": 0.6129448633444937,
+            "propagated": true
+        },
+        {
+            "frame_index": 229,
+            "score": 0.6115138272901899,
+            "propagated": true
+        },
+        {
+            "frame_index": 230,
+            "score": 0.6100827912358862,
+            "propagated": true
+        },
+        {
+            "frame_index": 231,
+            "score": 0.6086517551815823,
+            "propagated": true
+        },
+        {
+            "frame_index": 232,
+            "score": 0.6072207191272786,
+            "propagated": true
+        },
+        {
+            "frame_index": 233,
+            "score": 0.6057896830729748,
+            "propagated": true
+        },
+        {
+            "frame_index": 234,
+            "score": 0.604358647018671,
+            "propagated": true
+        },
+        {
+            "frame_index": 235,
+            "score": 0.6029276109643673,
+            "propagated": true
+        },
+        {
+            "frame_index": 236,
+            "score": 0.6014965749100635,
+            "propagated": true
+        },
+        {
+            "frame_index": 237,
+            "score": 0.6000655388557598,
+            "propagated": true
+        },
+        {
+            "frame_index": 238,
+            "score": 0.5986345028014559,
+            "propagated": true
+        },
+        {
+            "frame_index": 239,
+            "score": 0.5972034667471522,
+            "propagated": true
+        },
+        {
+            "frame_index": 240,
+            "score": 0.5957724306928485,
+            "propagated": true
+        },
+        {
+            "frame_index": 241,
+            "score": 0.5943413946385446,
+            "propagated": true
+        },
+        {
+            "frame_index": 242,
+            "score": 0.5929103585842409,
+            "propagated": true
+        },
+        {
+            "frame_index": 243,
+            "score": 0.5914793225299371,
+            "propagated": true
+        },
+        {
+            "frame_index": 244,
+            "score": 0.5900482864756333,
+            "propagated": true
+        },
+        {
+            "frame_index": 245,
+            "score": 0.5886172504213295,
+            "propagated": true
+        },
+        {
+            "frame_index": 246,
+            "score": 0.5871862143670258,
+            "propagated": true
+        },
+        {
+            "frame_index": 247,
+            "score": 0.585755178312722,
+            "propagated": true
+        },
+        {
+            "frame_index": 248,
+            "score": 0.5843241422584182,
+            "propagated": true
+        },
+        {
+            "frame_index": 249,
+            "score": 0.5828931062041145,
+            "propagated": true
+        },
+        {
+            "frame_index": 250,
+            "score": 0.5814620701498107,
+            "propagated": true
+        },
+        {
+            "frame_index": 251,
+            "score": 0.5800310340955069,
+            "propagated": true
+        },
+        {
+            "frame_index": 252,
+            "score": 0.5785999980412031,
+            "propagated": true
+        },
+        {
+            "frame_index": 253,
+            "score": 0.5771689619868994,
+            "propagated": true
+        },
+        {
+            "frame_index": 254,
+            "score": 0.5757379259325957,
+            "propagated": true
+        },
+        {
+            "frame_index": 255,
+            "score": 0.5743068898782918,
+            "propagated": true
+        },
+        {
+            "frame_index": 256,
+            "score": 0.5728758538239881,
+            "propagated": true
+        },
+        {
+            "frame_index": 257,
+            "score": 0.5714448177696843,
+            "propagated": true
+        },
+        {
+            "frame_index": 258,
+            "score": 0.5700137817153805,
+            "propagated": true
+        },
+        {
+            "frame_index": 259,
+            "score": 0.5685827456610768,
+            "propagated": true
+        },
+        {
+            "frame_index": 260,
+            "score": 0.567151709606773,
+            "propagated": true
+        },
+        {
+            "frame_index": 261,
+            "score": 0.5657206735524692,
+            "propagated": true
+        },
+        {
+            "frame_index": 262,
+            "score": 0.5642896374981654,
+            "propagated": true
+        },
+        {
+            "frame_index": 263,
+            "score": 0.5628586014438617,
+            "propagated": true
+        },
+        {
+            "frame_index": 264,
+            "score": 0.5614275653895578,
+            "propagated": true
+        },
+        {
+            "frame_index": 265,
+            "score": 0.5599965293352541,
+            "propagated": true
+        },
+        {
+            "frame_index": 266,
+            "score": 0.5585654932809503,
+            "propagated": true
+        },
+        {
+            "frame_index": 267,
+            "score": 0.5571344572266466,
+            "propagated": true
+        },
+        {
+            "frame_index": 268,
+            "score": 0.5557034211723428,
+            "propagated": true
+        },
+        {
+            "frame_index": 269,
+            "score": 0.554272385118039,
+            "propagated": true
+        },
+        {
+            "frame_index": 270,
+            "score": 0.5528413490637353,
+            "propagated": true
+        },
+        {
+            "frame_index": 271,
+            "score": 0.5514103130094314,
+            "propagated": true
+        },
+        {
+            "frame_index": 272,
+            "score": 0.5499792769551277,
+            "propagated": true
+        },
+        {
+            "frame_index": 273,
+            "score": 0.548548240900824,
+            "propagated": true
+        },
+        {
+            "frame_index": 274,
+            "score": 0.5471172048465202,
+            "propagated": true
+        },
+        {
+            "frame_index": 275,
+            "score": 0.5456861687922164,
+            "propagated": true
+        },
+        {
+            "frame_index": 276,
+            "score": 0.5442551327379126,
+            "propagated": true
+        },
+        {
+            "frame_index": 277,
+            "score": 0.5428240966836089,
+            "propagated": true
+        },
+        {
+            "frame_index": 278,
+            "score": 0.5413930606293051,
+            "propagated": true
+        },
+        {
+            "frame_index": 279,
+            "score": 0.5399620245750013,
+            "propagated": true
+        },
+        {
+            "frame_index": 280,
+            "score": 0.5385309885206975,
+            "propagated": true
+        },
+        {
+            "frame_index": 281,
+            "score": 0.5370999524663937,
+            "propagated": true
+        },
+        {
+            "frame_index": 282,
+            "score": 0.53566891641209,
+            "propagated": true
+        },
+        {
+            "frame_index": 283,
+            "score": 0.5342378803577863,
+            "propagated": true
+        },
+        {
+            "frame_index": 284,
+            "score": 0.5328068443034825,
+            "propagated": true
+        },
+        {
+            "frame_index": 285,
+            "score": 0.5313758082491786,
+            "propagated": true
+        },
+        {
+            "frame_index": 286,
+            "score": 0.5299447721948749,
+            "propagated": true
+        },
+        {
+            "frame_index": 287,
+            "score": 0.5285137361405712,
+            "propagated": true
+        },
+        {
+            "frame_index": 288,
+            "score": 0.5270827000862673,
+            "propagated": true
+        },
+        {
+            "frame_index": 289,
+            "score": 0.5256516640319636,
+            "propagated": true
+        },
+        {
+            "frame_index": 290,
+            "score": 0.5242206279776598,
+            "propagated": true
+        },
+        {
+            "frame_index": 291,
+            "score": 0.5227895919233561,
+            "propagated": true
+        },
+        {
+            "frame_index": 292,
+            "score": 0.5213585558690523,
+            "propagated": true
+        },
+        {
+            "frame_index": 293,
+            "score": 0.5199275198147485,
+            "propagated": true
+        },
+        {
+            "frame_index": 294,
+            "score": 0.5184964837604448,
+            "propagated": true
+        },
+        {
+            "frame_index": 295,
+            "score": 0.5170654477061409,
+            "propagated": true
+        },
+        {
+            "frame_index": 296,
+            "score": 0.5156344116518372,
+            "propagated": true
+        },
+        {
+            "frame_index": 297,
+            "score": 0.5142033755975335,
+            "propagated": true
+        },
+        {
+            "frame_index": 298,
+            "score": 0.5127723395432296,
+            "propagated": true
+        },
+        {
+            "frame_index": 299,
+            "score": 0.5113413034889258,
+            "propagated": true
+        },
+        {
+            "frame_index": 300,
+            "score": 0.5099102674346221,
+            "propagated": true
+        },
+        {
+            "frame_index": 301,
+            "score": 0.5084792313803184,
+            "propagated": true
+        },
+        {
+            "frame_index": 302,
+            "score": 0.5070481953260146,
+            "propagated": true
+        },
+        {
+            "frame_index": 303,
+            "score": 0.5056171592717108,
+            "propagated": true
+        },
+        {
+            "frame_index": 304,
+            "score": 0.504186123217407,
+            "propagated": true
+        },
+        {
+            "frame_index": 305,
+            "score": 0.5027550871631032,
+            "propagated": true
+        },
+        {
+            "frame_index": 306,
+            "score": 0.5013240511087995,
+            "propagated": true
+        },
+        {
+            "frame_index": 1551,
+            "score": 0.5026471771691975,
+            "propagated": true
+        },
+        {
+            "frame_index": 1552,
+            "score": 0.5062633439114219,
+            "propagated": true
+        },
+        {
+            "frame_index": 1553,
+            "score": 0.5098795106536465,
+            "propagated": true
+        },
+        {
+            "frame_index": 1554,
+            "score": 0.5134956773958709,
+            "propagated": true
+        },
+        {
+            "frame_index": 1555,
+            "score": 0.5171118441380952,
+            "propagated": true
+        },
+        {
+            "frame_index": 1556,
+            "score": 0.5207280108803196,
+            "propagated": true
+        },
+        {
+            "frame_index": 1557,
+            "score": 0.5243441776225441,
+            "propagated": true
+        },
+        {
+            "frame_index": 1558,
+            "score": 0.5279603443647686,
+            "propagated": true
+        },
+        {
+            "frame_index": 1559,
+            "score": 0.531576511106993,
+            "propagated": true
+        },
+        {
+            "frame_index": 1560,
+            "score": 0.5351926778492175,
+            "propagated": true
+        },
+        {
+            "frame_index": 1561,
+            "score": 0.5388088445914418,
+            "propagated": true
+        },
+        {
+            "frame_index": 1562,
+            "score": 0.5424250113336663,
+            "propagated": true
+        },
+        {
+            "frame_index": 1563,
+            "score": 0.5460411780758908,
+            "propagated": true
+        },
+        {
+            "frame_index": 1564,
+            "score": 0.5496573448181152,
+            "propagated": false
+        },
+        {
+            "frame_index": 1565,
+            "score": 0.5492897268972898,
+            "propagated": true
+        },
+        {
+            "frame_index": 1566,
+            "score": 0.5489221089764645,
+            "propagated": true
+        },
+        {
+            "frame_index": 1567,
+            "score": 0.5485544910556391,
+            "propagated": true
+        },
+        {
+            "frame_index": 1568,
+            "score": 0.5481868731348138,
+            "propagated": true
+        },
+        {
+            "frame_index": 1569,
+            "score": 0.5478192552139884,
+            "propagated": true
+        },
+        {
+            "frame_index": 1570,
+            "score": 0.5474516372931632,
+            "propagated": true
+        },
+        {
+            "frame_index": 1571,
+            "score": 0.5470840193723377,
+            "propagated": true
+        },
+        {
+            "frame_index": 1572,
+            "score": 0.5467164014515123,
+            "propagated": true
+        },
+        {
+            "frame_index": 1573,
+            "score": 0.546348783530687,
+            "propagated": true
+        },
+        {
+            "frame_index": 1574,
+            "score": 0.5459811656098617,
+            "propagated": true
+        },
+        {
+            "frame_index": 1575,
+            "score": 0.5456135476890364,
+            "propagated": true
+        },
+        {
+            "frame_index": 1576,
+            "score": 0.545245929768211,
+            "propagated": true
+        },
+        {
+            "frame_index": 1577,
+            "score": 0.5448783118473856,
+            "propagated": true
+        },
+        {
+            "frame_index": 1578,
+            "score": 0.5445106939265603,
+            "propagated": true
+        },
+        {
+            "frame_index": 1579,
+            "score": 0.5441430760057349,
+            "propagated": true
+        },
+        {
+            "frame_index": 1580,
+            "score": 0.5437754580849096,
+            "propagated": true
+        },
+        {
+            "frame_index": 1581,
+            "score": 0.5434078401640842,
+            "propagated": true
+        },
+        {
+            "frame_index": 1582,
+            "score": 0.5430402222432589,
+            "propagated": true
+        },
+        {
+            "frame_index": 1583,
+            "score": 0.5426726043224335,
+            "propagated": true
+        },
+        {
+            "frame_index": 1584,
+            "score": 0.5423049864016081,
+            "propagated": true
+        },
+        {
+            "frame_index": 1585,
+            "score": 0.5419373684807828,
+            "propagated": true
+        },
+        {
+            "frame_index": 1586,
+            "score": 0.5415697505599574,
+            "propagated": true
+        },
+        {
+            "frame_index": 1587,
+            "score": 0.5412021326391321,
+            "propagated": true
+        },
+        {
+            "frame_index": 1588,
+            "score": 0.5408345147183067,
+            "propagated": true
+        },
+        {
+            "frame_index": 1589,
+            "score": 0.5404668967974814,
+            "propagated": true
+        },
+        {
+            "frame_index": 1590,
+            "score": 0.540099278876656,
+            "propagated": true
+        },
+        {
+            "frame_index": 1591,
+            "score": 0.5397316609558306,
+            "propagated": true
+        },
+        {
+            "frame_index": 1592,
+            "score": 0.5393640430350053,
+            "propagated": true
+        },
+        {
+            "frame_index": 1593,
+            "score": 0.5389964251141799,
+            "propagated": true
+        },
+        {
+            "frame_index": 1594,
+            "score": 0.5386288071933546,
+            "propagated": true
+        },
+        {
+            "frame_index": 1595,
+            "score": 0.5382611892725292,
+            "propagated": true
+        },
+        {
+            "frame_index": 1596,
+            "score": 0.5378935713517038,
+            "propagated": true
+        },
+        {
+            "frame_index": 1597,
+            "score": 0.5375259534308785,
+            "propagated": true
+        },
+        {
+            "frame_index": 1598,
+            "score": 0.5371583355100531,
+            "propagated": true
+        },
+        {
+            "frame_index": 1599,
+            "score": 0.5367907175892278,
+            "propagated": true
+        },
+        {
+            "frame_index": 1600,
+            "score": 0.5364230996684024,
+            "propagated": true
+        },
+        {
+            "frame_index": 1601,
+            "score": 0.5360554817475771,
+            "propagated": true
+        },
+        {
+            "frame_index": 1602,
+            "score": 0.5356878638267517,
+            "propagated": true
+        },
+        {
+            "frame_index": 1603,
+            "score": 0.5353202459059263,
+            "propagated": true
+        },
+        {
+            "frame_index": 1604,
+            "score": 0.534952627985101,
+            "propagated": true
+        },
+        {
+            "frame_index": 1605,
+            "score": 0.5345850100642756,
+            "propagated": true
+        },
+        {
+            "frame_index": 1606,
+            "score": 0.5342173921434503,
+            "propagated": true
+        },
+        {
+            "frame_index": 1607,
+            "score": 0.5338497742226249,
+            "propagated": true
+        },
+        {
+            "frame_index": 1608,
+            "score": 0.5334821563017996,
+            "propagated": true
+        },
+        {
+            "frame_index": 1609,
+            "score": 0.5331145383809742,
+            "propagated": true
+        },
+        {
+            "frame_index": 1610,
+            "score": 0.5327469204601488,
+            "propagated": true
+        },
+        {
+            "frame_index": 1611,
+            "score": 0.5323793025393235,
+            "propagated": true
+        },
+        {
+            "frame_index": 1612,
+            "score": 0.5320116846184981,
+            "propagated": true
+        },
+        {
+            "frame_index": 1613,
+            "score": 0.5316440666976728,
+            "propagated": true
+        },
+        {
+            "frame_index": 1614,
+            "score": 0.5312764487768474,
+            "propagated": true
+        },
+        {
+            "frame_index": 1615,
+            "score": 0.530908830856022,
+            "propagated": true
+        },
+        {
+            "frame_index": 1616,
+            "score": 0.5305412129351967,
+            "propagated": true
+        },
+        {
+            "frame_index": 1617,
+            "score": 0.5301735950143713,
+            "propagated": true
+        },
+        {
+            "frame_index": 1618,
+            "score": 0.529805977093546,
+            "propagated": true
+        },
+        {
+            "frame_index": 1619,
+            "score": 0.5294383591727206,
+            "propagated": true
+        },
+        {
+            "frame_index": 1620,
+            "score": 0.5290707412518953,
+            "propagated": true
+        },
+        {
+            "frame_index": 1621,
+            "score": 0.52870312333107,
+            "propagated": true
+        },
+        {
+            "frame_index": 1622,
+            "score": 0.5283355054102445,
+            "propagated": true
+        },
+        {
+            "frame_index": 1623,
+            "score": 0.5279678874894193,
+            "propagated": true
+        },
+        {
+            "frame_index": 1624,
+            "score": 0.5276002695685938,
+            "propagated": true
+        },
+        {
+            "frame_index": 1625,
+            "score": 0.5272326516477686,
+            "propagated": true
+        },
+        {
+            "frame_index": 1626,
+            "score": 0.5268650337269432,
+            "propagated": true
+        },
+        {
+            "frame_index": 1627,
+            "score": 0.5264974158061179,
+            "propagated": true
+        },
+        {
+            "frame_index": 1628,
+            "score": 0.5261297978852925,
+            "propagated": true
+        },
+        {
+            "frame_index": 1629,
+            "score": 0.5257621799644671,
+            "propagated": true
+        },
+        {
+            "frame_index": 1630,
+            "score": 0.5253945620436418,
+            "propagated": true
+        },
+        {
+            "frame_index": 1631,
+            "score": 0.5250269441228164,
+            "propagated": true
+        },
+        {
+            "frame_index": 1632,
+            "score": 0.5246593262019911,
+            "propagated": true
+        },
+        {
+            "frame_index": 1633,
+            "score": 0.5242917082811657,
+            "propagated": true
+        },
+        {
+            "frame_index": 1634,
+            "score": 0.5239240903603403,
+            "propagated": true
+        },
+        {
+            "frame_index": 1635,
+            "score": 0.523556472439515,
+            "propagated": true
+        },
+        {
+            "frame_index": 1636,
+            "score": 0.5231888545186896,
+            "propagated": true
+        },
+        {
+            "frame_index": 1637,
+            "score": 0.5228212365978643,
+            "propagated": true
+        },
+        {
+            "frame_index": 1638,
+            "score": 0.5224536186770389,
+            "propagated": true
+        },
+        {
+            "frame_index": 1639,
+            "score": 0.5220860007562136,
+            "propagated": true
+        },
+        {
+            "frame_index": 1640,
+            "score": 0.5217183828353882,
+            "propagated": true
+        },
+        {
+            "frame_index": 1641,
+            "score": 0.5213507649145628,
+            "propagated": true
+        },
+        {
+            "frame_index": 1642,
+            "score": 0.5209831469937375,
+            "propagated": true
+        },
+        {
+            "frame_index": 1643,
+            "score": 0.5206155290729121,
+            "propagated": true
+        },
+        {
+            "frame_index": 1644,
+            "score": 0.5202479111520868,
+            "propagated": true
+        },
+        {
+            "frame_index": 1645,
+            "score": 0.5198802932312614,
+            "propagated": true
+        },
+        {
+            "frame_index": 1646,
+            "score": 0.5195126753104361,
+            "propagated": true
+        },
+        {
+            "frame_index": 1647,
+            "score": 0.5191450573896107,
+            "propagated": true
+        },
+        {
+            "frame_index": 1648,
+            "score": 0.5187774394687853,
+            "propagated": true
+        },
+        {
+            "frame_index": 1649,
+            "score": 0.51840982154796,
+            "propagated": true
+        },
+        {
+            "frame_index": 1650,
+            "score": 0.5180422036271346,
+            "propagated": true
+        },
+        {
+            "frame_index": 1651,
+            "score": 0.5176745857063093,
+            "propagated": true
+        },
+        {
+            "frame_index": 1652,
+            "score": 0.5173069677854839,
+            "propagated": true
+        },
+        {
+            "frame_index": 1653,
+            "score": 0.5169393498646586,
+            "propagated": true
+        },
+        {
+            "frame_index": 1654,
+            "score": 0.5165717319438332,
+            "propagated": true
+        },
+        {
+            "frame_index": 1655,
+            "score": 0.5162041140230078,
+            "propagated": true
+        },
+        {
+            "frame_index": 1656,
+            "score": 0.5158364961021825,
+            "propagated": true
+        },
+        {
+            "frame_index": 1657,
+            "score": 0.5154688781813571,
+            "propagated": true
+        },
+        {
+            "frame_index": 1658,
+            "score": 0.5151012602605318,
+            "propagated": true
+        },
+        {
+            "frame_index": 1659,
+            "score": 0.5147336423397064,
+            "propagated": true
+        },
+        {
+            "frame_index": 1660,
+            "score": 0.514366024418881,
+            "propagated": true
+        },
+        {
+            "frame_index": 1661,
+            "score": 0.5139984064980557,
+            "propagated": true
+        },
+        {
+            "frame_index": 1662,
+            "score": 0.5136307885772303,
+            "propagated": true
+        },
+        {
+            "frame_index": 1663,
+            "score": 0.513263170656405,
+            "propagated": true
+        },
+        {
+            "frame_index": 1664,
+            "score": 0.5128955527355796,
+            "propagated": true
+        },
+        {
+            "frame_index": 1665,
+            "score": 0.5125279348147542,
+            "propagated": true
+        },
+        {
+            "frame_index": 1666,
+            "score": 0.5121603168939289,
+            "propagated": true
+        },
+        {
+            "frame_index": 1667,
+            "score": 0.5117926989731035,
+            "propagated": true
+        },
+        {
+            "frame_index": 1668,
+            "score": 0.5114250810522782,
+            "propagated": true
+        },
+        {
+            "frame_index": 1669,
+            "score": 0.5110574631314528,
+            "propagated": true
+        },
+        {
+            "frame_index": 1670,
+            "score": 0.5106898452106275,
+            "propagated": true
+        },
+        {
+            "frame_index": 1671,
+            "score": 0.5103222272898021,
+            "propagated": true
+        },
+        {
+            "frame_index": 1672,
+            "score": 0.5099546093689769,
+            "propagated": true
+        },
+        {
+            "frame_index": 1673,
+            "score": 0.5095869914481514,
+            "propagated": true
+        },
+        {
+            "frame_index": 1674,
+            "score": 0.509219373527326,
+            "propagated": true
+        },
+        {
+            "frame_index": 1675,
+            "score": 0.5088517556065008,
+            "propagated": true
+        },
+        {
+            "frame_index": 1676,
+            "score": 0.5084841376856754,
+            "propagated": true
+        },
+        {
+            "frame_index": 1677,
+            "score": 0.5081165197648501,
+            "propagated": true
+        },
+        {
+            "frame_index": 1678,
+            "score": 0.5077489018440247,
+            "propagated": true
+        },
+        {
+            "frame_index": 1679,
+            "score": 0.5073812839231993,
+            "propagated": true
+        },
+        {
+            "frame_index": 1680,
+            "score": 0.507013666002374,
+            "propagated": true
+        },
+        {
+            "frame_index": 1681,
+            "score": 0.5066460480815486,
+            "propagated": true
+        },
+        {
+            "frame_index": 1682,
+            "score": 0.5062784301607233,
+            "propagated": true
+        },
+        {
+            "frame_index": 1683,
+            "score": 0.5059108122398979,
+            "propagated": true
+        },
+        {
+            "frame_index": 1684,
+            "score": 0.5055431943190725,
+            "propagated": true
+        },
+        {
+            "frame_index": 1685,
+            "score": 0.5051755763982472,
+            "propagated": true
+        },
+        {
+            "frame_index": 1686,
+            "score": 0.5048079584774218,
+            "propagated": true
+        },
+        {
+            "frame_index": 1687,
+            "score": 0.5044403405565965,
+            "propagated": true
+        },
+        {
+            "frame_index": 1688,
+            "score": 0.5040727226357711,
+            "propagated": true
+        },
+        {
+            "frame_index": 1689,
+            "score": 0.5037051047149458,
+            "propagated": true
+        },
+        {
+            "frame_index": 1690,
+            "score": 0.5033374867941204,
+            "propagated": true
+        },
+        {
+            "frame_index": 1691,
+            "score": 0.5029698688732951,
+            "propagated": true
+        },
+        {
+            "frame_index": 1692,
+            "score": 0.5026022509524697,
+            "propagated": true
+        },
+        {
+            "frame_index": 1693,
+            "score": 0.5022346330316443,
+            "propagated": true
+        },
+        {
+            "frame_index": 1694,
+            "score": 0.501867015110819,
+            "propagated": true
+        },
+        {
+            "frame_index": 1695,
+            "score": 0.5014993971899936,
+            "propagated": true
+        },
+        {
+            "frame_index": 1696,
+            "score": 0.5011317792691683,
+            "propagated": true
+        },
+        {
+            "frame_index": 1697,
+            "score": 0.5007641613483429,
+            "propagated": true
+        },
+        {
+            "frame_index": 1698,
+            "score": 0.5003965434275175,
+            "propagated": true
+        },
+        {
+            "frame_index": 1699,
+            "score": 0.5000289255066922,
+            "propagated": true
+        },
+        {
+            "frame_index": 1721,
+            "score": 0.5007055962556287,
+            "propagated": true
+        },
+        {
+            "frame_index": 1722,
+            "score": 0.5020908313362222,
+            "propagated": true
+        },
+        {
+            "frame_index": 1723,
+            "score": 0.5034760664168157,
+            "propagated": true
+        },
+        {
+            "frame_index": 1724,
+            "score": 0.5048613014974093,
+            "propagated": true
+        },
+        {
+            "frame_index": 1725,
+            "score": 0.5062465365780028,
+            "propagated": true
+        },
+        {
+            "frame_index": 1726,
+            "score": 0.5076317716585962,
+            "propagated": true
+        },
+        {
+            "frame_index": 1727,
+            "score": 0.5090170067391897,
+            "propagated": true
+        },
+        {
+            "frame_index": 1728,
+            "score": 0.5104022418197832,
+            "propagated": true
+        },
+        {
+            "frame_index": 1729,
+            "score": 0.5117874769003767,
+            "propagated": true
+        },
+        {
+            "frame_index": 1730,
+            "score": 0.5131727119809703,
+            "propagated": true
+        },
+        {
+            "frame_index": 1731,
+            "score": 0.5145579470615638,
+            "propagated": true
+        },
+        {
+            "frame_index": 1732,
+            "score": 0.5159431821421573,
+            "propagated": true
+        },
+        {
+            "frame_index": 1733,
+            "score": 0.5173284172227508,
+            "propagated": true
+        },
+        {
+            "frame_index": 1734,
+            "score": 0.5187136523033443,
+            "propagated": true
+        },
+        {
+            "frame_index": 1735,
+            "score": 0.5200988873839378,
+            "propagated": true
+        },
+        {
+            "frame_index": 1736,
+            "score": 0.5214841224645314,
+            "propagated": true
+        },
+        {
+            "frame_index": 1737,
+            "score": 0.5228693575451249,
+            "propagated": true
+        },
+        {
+            "frame_index": 1738,
+            "score": 0.5242545926257184,
+            "propagated": true
+        },
+        {
+            "frame_index": 1739,
+            "score": 0.5256398277063119,
+            "propagated": true
+        },
+        {
+            "frame_index": 1740,
+            "score": 0.5270250627869054,
+            "propagated": true
+        },
+        {
+            "frame_index": 1741,
+            "score": 0.5284102978674989,
+            "propagated": true
+        },
+        {
+            "frame_index": 1742,
+            "score": 0.5297955329480925,
+            "propagated": true
+        },
+        {
+            "frame_index": 1743,
+            "score": 0.531180768028686,
+            "propagated": true
+        },
+        {
+            "frame_index": 1744,
+            "score": 0.5325660031092794,
+            "propagated": true
+        },
+        {
+            "frame_index": 1745,
+            "score": 0.533951238189873,
+            "propagated": true
+        },
+        {
+            "frame_index": 1746,
+            "score": 0.5353364732704664,
+            "propagated": true
+        },
+        {
+            "frame_index": 1747,
+            "score": 0.5367217083510599,
+            "propagated": true
+        },
+        {
+            "frame_index": 1748,
+            "score": 0.5381069434316534,
+            "propagated": true
+        },
+        {
+            "frame_index": 1749,
+            "score": 0.539492178512247,
+            "propagated": true
+        },
+        {
+            "frame_index": 1750,
+            "score": 0.5408774135928405,
+            "propagated": true
+        },
+        {
+            "frame_index": 1751,
+            "score": 0.542262648673434,
+            "propagated": true
+        },
+        {
+            "frame_index": 1752,
+            "score": 0.5436478837540275,
+            "propagated": true
+        },
+        {
+            "frame_index": 1753,
+            "score": 0.545033118834621,
+            "propagated": true
+        },
+        {
+            "frame_index": 1754,
+            "score": 0.5464183539152145,
+            "propagated": true
+        },
+        {
+            "frame_index": 1755,
+            "score": 0.547803588995808,
+            "propagated": true
+        },
+        {
+            "frame_index": 1756,
+            "score": 0.5491888240764016,
+            "propagated": true
+        },
+        {
+            "frame_index": 1757,
+            "score": 0.5505740591569951,
+            "propagated": true
+        },
+        {
+            "frame_index": 1758,
+            "score": 0.5519592942375886,
+            "propagated": true
+        },
+        {
+            "frame_index": 1759,
+            "score": 0.5533445293181821,
+            "propagated": true
+        },
+        {
+            "frame_index": 1760,
+            "score": 0.5547297643987756,
+            "propagated": true
+        },
+        {
+            "frame_index": 1761,
+            "score": 0.5561149994793692,
+            "propagated": true
+        },
+        {
+            "frame_index": 1762,
+            "score": 0.5575002345599627,
+            "propagated": true
+        },
+        {
+            "frame_index": 1763,
+            "score": 0.5588854696405561,
+            "propagated": true
+        },
+        {
+            "frame_index": 1764,
+            "score": 0.5602707047211497,
+            "propagated": true
+        },
+        {
+            "frame_index": 1765,
+            "score": 0.5616559398017431,
+            "propagated": true
+        },
+        {
+            "frame_index": 1766,
+            "score": 0.5630411748823366,
+            "propagated": true
+        },
+        {
+            "frame_index": 1767,
+            "score": 0.5644264099629301,
+            "propagated": true
+        },
+        {
+            "frame_index": 1768,
+            "score": 0.5658116450435237,
+            "propagated": true
+        },
+        {
+            "frame_index": 1769,
+            "score": 0.5671968801241172,
+            "propagated": true
+        },
+        {
+            "frame_index": 1770,
+            "score": 0.5685821152047107,
+            "propagated": true
+        },
+        {
+            "frame_index": 1771,
+            "score": 0.5699673502853042,
+            "propagated": true
+        },
+        {
+            "frame_index": 1772,
+            "score": 0.5713525853658977,
+            "propagated": true
+        },
+        {
+            "frame_index": 1773,
+            "score": 0.5727378204464912,
+            "propagated": true
+        },
+        {
+            "frame_index": 1774,
+            "score": 0.5741230555270848,
+            "propagated": true
+        },
+        {
+            "frame_index": 1775,
+            "score": 0.5755082906076783,
+            "propagated": true
+        },
+        {
+            "frame_index": 1776,
+            "score": 0.5768935256882718,
+            "propagated": true
+        },
+        {
+            "frame_index": 1777,
+            "score": 0.5782787607688653,
+            "propagated": true
+        },
+        {
+            "frame_index": 1778,
+            "score": 0.5796639958494588,
+            "propagated": true
+        },
+        {
+            "frame_index": 1779,
+            "score": 0.5810492309300523,
+            "propagated": true
+        },
+        {
+            "frame_index": 1780,
+            "score": 0.5824344660106459,
+            "propagated": true
+        },
+        {
+            "frame_index": 1781,
+            "score": 0.5838197010912394,
+            "propagated": true
+        },
+        {
+            "frame_index": 1782,
+            "score": 0.5852049361718328,
+            "propagated": true
+        },
+        {
+            "frame_index": 1783,
+            "score": 0.5865901712524264,
+            "propagated": true
+        },
+        {
+            "frame_index": 1784,
+            "score": 0.5879754063330198,
+            "propagated": true
+        },
+        {
+            "frame_index": 1785,
+            "score": 0.5893606414136133,
+            "propagated": true
+        },
+        {
+            "frame_index": 1786,
+            "score": 0.5907458764942068,
+            "propagated": true
+        },
+        {
+            "frame_index": 1787,
+            "score": 0.5921311115748004,
+            "propagated": true
+        },
+        {
+            "frame_index": 1788,
+            "score": 0.5935163466553939,
+            "propagated": true
+        },
+        {
+            "frame_index": 1789,
+            "score": 0.5949015817359874,
+            "propagated": true
+        },
+        {
+            "frame_index": 1790,
+            "score": 0.5962868168165809,
+            "propagated": true
+        },
+        {
+            "frame_index": 1791,
+            "score": 0.5976720518971744,
+            "propagated": true
+        },
+        {
+            "frame_index": 1792,
+            "score": 0.5990572869777679,
+            "propagated": true
+        },
+        {
+            "frame_index": 1793,
+            "score": 0.6004425220583615,
+            "propagated": true
+        },
+        {
+            "frame_index": 1794,
+            "score": 0.601827757138955,
+            "propagated": true
+        },
+        {
+            "frame_index": 1795,
+            "score": 0.6032129922195485,
+            "propagated": true
+        },
+        {
+            "frame_index": 1796,
+            "score": 0.604598227300142,
+            "propagated": true
+        },
+        {
+            "frame_index": 1797,
+            "score": 0.6059834623807355,
+            "propagated": true
+        },
+        {
+            "frame_index": 1798,
+            "score": 0.607368697461329,
+            "propagated": true
+        },
+        {
+            "frame_index": 1799,
+            "score": 0.6087539325419226,
+            "propagated": true
+        },
+        {
+            "frame_index": 1800,
+            "score": 0.6101391676225161,
+            "propagated": true
+        },
+        {
+            "frame_index": 1801,
+            "score": 0.6115244027031095,
+            "propagated": true
+        },
+        {
+            "frame_index": 1802,
+            "score": 0.6129096377837031,
+            "propagated": true
+        },
+        {
+            "frame_index": 1803,
+            "score": 0.6142948728642965,
+            "propagated": true
+        },
+        {
+            "frame_index": 1804,
+            "score": 0.61568010794489,
+            "propagated": true
+        },
+        {
+            "frame_index": 1805,
+            "score": 0.6170653430254835,
+            "propagated": true
+        },
+        {
+            "frame_index": 1806,
+            "score": 0.6184505781060771,
+            "propagated": true
+        },
+        {
+            "frame_index": 1807,
+            "score": 0.6198358131866706,
+            "propagated": true
+        },
+        {
+            "frame_index": 1808,
+            "score": 0.6212210482672641,
+            "propagated": true
+        },
+        {
+            "frame_index": 1809,
+            "score": 0.6226062833478576,
+            "propagated": true
+        },
+        {
+            "frame_index": 1810,
+            "score": 0.6239915184284511,
+            "propagated": true
+        },
+        {
+            "frame_index": 1811,
+            "score": 0.6253767535090446,
+            "propagated": true
+        },
+        {
+            "frame_index": 1812,
+            "score": 0.6267619885896382,
+            "propagated": true
+        },
+        {
+            "frame_index": 1813,
+            "score": 0.6281472236702317,
+            "propagated": true
+        },
+        {
+            "frame_index": 1814,
+            "score": 0.6295324587508252,
+            "propagated": true
+        },
+        {
+            "frame_index": 1815,
+            "score": 0.6309176938314187,
+            "propagated": true
+        },
+        {
+            "frame_index": 1816,
+            "score": 0.6323029289120122,
+            "propagated": true
+        },
+        {
+            "frame_index": 1817,
+            "score": 0.6336881639926057,
+            "propagated": true
+        },
+        {
+            "frame_index": 1818,
+            "score": 0.6350733990731992,
+            "propagated": true
+        },
+        {
+            "frame_index": 1819,
+            "score": 0.6364586341537928,
+            "propagated": true
+        },
+        {
+            "frame_index": 1820,
+            "score": 0.6378438692343862,
+            "propagated": true
+        },
+        {
+            "frame_index": 1821,
+            "score": 0.6392291043149798,
+            "propagated": true
+        },
+        {
+            "frame_index": 1822,
+            "score": 0.6406143393955732,
+            "propagated": true
+        },
+        {
+            "frame_index": 1823,
+            "score": 0.6419995744761668,
+            "propagated": true
+        },
+        {
+            "frame_index": 1824,
+            "score": 0.6433848095567603,
+            "propagated": true
+        },
+        {
+            "frame_index": 1825,
+            "score": 0.6447700446373538,
+            "propagated": true
+        },
+        {
+            "frame_index": 1826,
+            "score": 0.6461552797179473,
+            "propagated": true
+        },
+        {
+            "frame_index": 1827,
+            "score": 0.6475405147985408,
+            "propagated": true
+        },
+        {
+            "frame_index": 1828,
+            "score": 0.6489257498791343,
+            "propagated": true
+        },
+        {
+            "frame_index": 1829,
+            "score": 0.6503109849597278,
+            "propagated": true
+        },
+        {
+            "frame_index": 1830,
+            "score": 0.6516962200403214,
+            "propagated": true
+        },
+        {
+            "frame_index": 1831,
+            "score": 0.6530814551209149,
+            "propagated": true
+        },
+        {
+            "frame_index": 1832,
+            "score": 0.6544666902015084,
+            "propagated": true
+        },
+        {
+            "frame_index": 1833,
+            "score": 0.6558519252821019,
+            "propagated": true
+        },
+        {
+            "frame_index": 1834,
+            "score": 0.6572371603626954,
+            "propagated": true
+        },
+        {
+            "frame_index": 1835,
+            "score": 0.6586223954432889,
+            "propagated": true
+        },
+        {
+            "frame_index": 1836,
+            "score": 0.6600076305238824,
+            "propagated": true
+        },
+        {
+            "frame_index": 1837,
+            "score": 0.6613928656044759,
+            "propagated": true
+        },
+        {
+            "frame_index": 1838,
+            "score": 0.6627781006850695,
+            "propagated": true
+        },
+        {
+            "frame_index": 1839,
+            "score": 0.6641633357656629,
+            "propagated": true
+        },
+        {
+            "frame_index": 1840,
+            "score": 0.6655485708462565,
+            "propagated": true
+        },
+        {
+            "frame_index": 1841,
+            "score": 0.6669338059268499,
+            "propagated": true
+        },
+        {
+            "frame_index": 1842,
+            "score": 0.6683190410074435,
+            "propagated": true
+        },
+        {
+            "frame_index": 1843,
+            "score": 0.669704276088037,
+            "propagated": true
+        },
+        {
+            "frame_index": 1844,
+            "score": 0.6710895111686305,
+            "propagated": true
+        },
+        {
+            "frame_index": 1845,
+            "score": 0.672474746249224,
+            "propagated": true
+        },
+        {
+            "frame_index": 1846,
+            "score": 0.6738599813298175,
+            "propagated": true
+        },
+        {
+            "frame_index": 1847,
+            "score": 0.675245216410411,
+            "propagated": true
+        },
+        {
+            "frame_index": 1848,
+            "score": 0.6766304514910045,
+            "propagated": true
+        },
+        {
+            "frame_index": 1849,
+            "score": 0.678015686571598,
+            "propagated": true
+        },
+        {
+            "frame_index": 1850,
+            "score": 0.6794009216521916,
+            "propagated": true
+        },
+        {
+            "frame_index": 1851,
+            "score": 0.6807861567327851,
+            "propagated": true
+        },
+        {
+            "frame_index": 1852,
+            "score": 0.6821713918133786,
+            "propagated": true
+        },
+        {
+            "frame_index": 1853,
+            "score": 0.6835566268939721,
+            "propagated": true
+        },
+        {
+            "frame_index": 1854,
+            "score": 0.6849418619745656,
+            "propagated": true
+        },
+        {
+            "frame_index": 1855,
+            "score": 0.6863270970551592,
+            "propagated": true
+        },
+        {
+            "frame_index": 1856,
+            "score": 0.6877123321357526,
+            "propagated": true
+        },
+        {
+            "frame_index": 1857,
+            "score": 0.6890975672163462,
+            "propagated": true
+        },
+        {
+            "frame_index": 1858,
+            "score": 0.6904828022969396,
+            "propagated": true
+        },
+        {
+            "frame_index": 1859,
+            "score": 0.6918680373775332,
+            "propagated": true
+        },
+        {
+            "frame_index": 1860,
+            "score": 0.6932532724581266,
+            "propagated": true
+        },
+        {
+            "frame_index": 1861,
+            "score": 0.6946385075387203,
+            "propagated": true
+        },
+        {
+            "frame_index": 1862,
+            "score": 0.6960237426193137,
+            "propagated": true
+        },
+        {
+            "frame_index": 1863,
+            "score": 0.6974089776999072,
+            "propagated": true
+        },
+        {
+            "frame_index": 1864,
+            "score": 0.6987942127805007,
+            "propagated": true
+        },
+        {
+            "frame_index": 1865,
+            "score": 0.7001794478610942,
+            "propagated": true
+        },
+        {
+            "frame_index": 1866,
+            "score": 0.7015646829416877,
+            "propagated": true
+        },
+        {
+            "frame_index": 1867,
+            "score": 0.7029499180222812,
+            "propagated": true
+        },
+        {
+            "frame_index": 1868,
+            "score": 0.7043351531028748,
+            "propagated": false
+        },
+        {
+            "frame_index": 1869,
+            "score": 0.7024601915557134,
+            "propagated": true
+        },
+        {
+            "frame_index": 1870,
+            "score": 0.700585230008552,
+            "propagated": true
+        },
+        {
+            "frame_index": 1871,
+            "score": 0.6987102684613905,
+            "propagated": true
+        },
+        {
+            "frame_index": 1872,
+            "score": 0.6968353069142291,
+            "propagated": true
+        },
+        {
+            "frame_index": 1873,
+            "score": 0.6949603453670677,
+            "propagated": true
+        },
+        {
+            "frame_index": 1874,
+            "score": 0.6930853838199064,
+            "propagated": true
+        },
+        {
+            "frame_index": 1875,
+            "score": 0.691210422272745,
+            "propagated": true
+        },
+        {
+            "frame_index": 1876,
+            "score": 0.6893354607255835,
+            "propagated": true
+        },
+        {
+            "frame_index": 1877,
+            "score": 0.6874604991784221,
+            "propagated": true
+        },
+        {
+            "frame_index": 1878,
+            "score": 0.6855855376312607,
+            "propagated": true
+        },
+        {
+            "frame_index": 1879,
+            "score": 0.6837105760840994,
+            "propagated": true
+        },
+        {
+            "frame_index": 1880,
+            "score": 0.681835614536938,
+            "propagated": true
+        },
+        {
+            "frame_index": 1881,
+            "score": 0.6799606529897765,
+            "propagated": true
+        },
+        {
+            "frame_index": 1882,
+            "score": 0.6780856914426151,
+            "propagated": true
+        },
+        {
+            "frame_index": 1883,
+            "score": 0.6762107298954537,
+            "propagated": true
+        },
+        {
+            "frame_index": 1884,
+            "score": 0.6743357683482923,
+            "propagated": true
+        },
+        {
+            "frame_index": 1885,
+            "score": 0.6724608068011309,
+            "propagated": true
+        },
+        {
+            "frame_index": 1886,
+            "score": 0.6705858452539695,
+            "propagated": true
+        },
+        {
+            "frame_index": 1887,
+            "score": 0.6687108837068081,
+            "propagated": true
+        },
+        {
+            "frame_index": 1888,
+            "score": 0.6668359221596467,
+            "propagated": true
+        },
+        {
+            "frame_index": 1889,
+            "score": 0.6649609606124853,
+            "propagated": true
+        },
+        {
+            "frame_index": 1890,
+            "score": 0.6630859990653238,
+            "propagated": true
+        },
+        {
+            "frame_index": 1891,
+            "score": 0.6612110375181625,
+            "propagated": true
+        },
+        {
+            "frame_index": 1892,
+            "score": 0.6593360759710011,
+            "propagated": true
+        },
+        {
+            "frame_index": 1893,
+            "score": 0.6574611144238397,
+            "propagated": true
+        },
+        {
+            "frame_index": 1894,
+            "score": 0.6555861528766782,
+            "propagated": true
+        },
+        {
+            "frame_index": 1895,
+            "score": 0.6537111913295168,
+            "propagated": true
+        },
+        {
+            "frame_index": 1896,
+            "score": 0.6518362297823554,
+            "propagated": true
+        },
+        {
+            "frame_index": 1897,
+            "score": 0.6499612682351941,
+            "propagated": true
+        },
+        {
+            "frame_index": 1898,
+            "score": 0.6480863066880327,
+            "propagated": true
+        },
+        {
+            "frame_index": 1899,
+            "score": 0.6462113451408713,
+            "propagated": true
+        },
+        {
+            "frame_index": 1900,
+            "score": 0.6443363835937098,
+            "propagated": true
+        },
+        {
+            "frame_index": 1901,
+            "score": 0.6424614220465484,
+            "propagated": true
+        },
+        {
+            "frame_index": 1902,
+            "score": 0.6405864604993871,
+            "propagated": true
+        },
+        {
+            "frame_index": 1903,
+            "score": 0.6387114989522257,
+            "propagated": true
+        },
+        {
+            "frame_index": 1904,
+            "score": 0.6368365374050642,
+            "propagated": true
+        },
+        {
+            "frame_index": 1905,
+            "score": 0.6349615758579028,
+            "propagated": true
+        },
+        {
+            "frame_index": 1906,
+            "score": 0.6330866143107414,
+            "propagated": true
+        },
+        {
+            "frame_index": 1907,
+            "score": 0.63121165276358,
+            "propagated": true
+        },
+        {
+            "frame_index": 1908,
+            "score": 0.6293366912164187,
+            "propagated": true
+        },
+        {
+            "frame_index": 1909,
+            "score": 0.6274617296692572,
+            "propagated": true
+        },
+        {
+            "frame_index": 1910,
+            "score": 0.6255867681220958,
+            "propagated": true
+        },
+        {
+            "frame_index": 1911,
+            "score": 0.6237118065749344,
+            "propagated": true
+        },
+        {
+            "frame_index": 1912,
+            "score": 0.621836845027773,
+            "propagated": true
+        },
+        {
+            "frame_index": 1913,
+            "score": 0.6199618834806117,
+            "propagated": true
+        },
+        {
+            "frame_index": 1914,
+            "score": 0.6180869219334502,
+            "propagated": true
+        },
+        {
+            "frame_index": 1915,
+            "score": 0.6162119603862888,
+            "propagated": true
+        },
+        {
+            "frame_index": 1916,
+            "score": 0.6143369988391274,
+            "propagated": true
+        },
+        {
+            "frame_index": 1917,
+            "score": 0.612462037291966,
+            "propagated": true
+        },
+        {
+            "frame_index": 1918,
+            "score": 0.6105870757448045,
+            "propagated": true
+        },
+        {
+            "frame_index": 1919,
+            "score": 0.6087121141976432,
+            "propagated": true
+        },
+        {
+            "frame_index": 1920,
+            "score": 0.6068371526504818,
+            "propagated": true
+        },
+        {
+            "frame_index": 1921,
+            "score": 0.6049621911033204,
+            "propagated": true
+        },
+        {
+            "frame_index": 1922,
+            "score": 0.603087229556159,
+            "propagated": true
+        },
+        {
+            "frame_index": 1923,
+            "score": 0.6012122680089975,
+            "propagated": true
+        },
+        {
+            "frame_index": 1924,
+            "score": 0.5993373064618361,
+            "propagated": true
+        },
+        {
+            "frame_index": 1925,
+            "score": 0.5974623449146748,
+            "propagated": true
+        },
+        {
+            "frame_index": 1926,
+            "score": 0.5955873833675134,
+            "propagated": true
+        },
+        {
+            "frame_index": 1927,
+            "score": 0.593712421820352,
+            "propagated": true
+        },
+        {
+            "frame_index": 1928,
+            "score": 0.5918374602731905,
+            "propagated": true
+        },
+        {
+            "frame_index": 1929,
+            "score": 0.5899624987260291,
+            "propagated": true
+        },
+        {
+            "frame_index": 1930,
+            "score": 0.5880875371788677,
+            "propagated": true
+        },
+        {
+            "frame_index": 1931,
+            "score": 0.5862125756317064,
+            "propagated": true
+        },
+        {
+            "frame_index": 1932,
+            "score": 0.584337614084545,
+            "propagated": true
+        },
+        {
+            "frame_index": 1933,
+            "score": 0.5824626525373835,
+            "propagated": true
+        },
+        {
+            "frame_index": 1934,
+            "score": 0.5805876909902221,
+            "propagated": true
+        },
+        {
+            "frame_index": 1935,
+            "score": 0.5787127294430607,
+            "propagated": true
+        },
+        {
+            "frame_index": 1936,
+            "score": 0.5768377678958994,
+            "propagated": true
+        },
+        {
+            "frame_index": 1937,
+            "score": 0.574962806348738,
+            "propagated": true
+        },
+        {
+            "frame_index": 1938,
+            "score": 0.5730878448015765,
+            "propagated": true
+        },
+        {
+            "frame_index": 1939,
+            "score": 0.5712128832544151,
+            "propagated": true
+        },
+        {
+            "frame_index": 1940,
+            "score": 0.5693379217072537,
+            "propagated": true
+        },
+        {
+            "frame_index": 1941,
+            "score": 0.5674629601600923,
+            "propagated": true
+        },
+        {
+            "frame_index": 1942,
+            "score": 0.5655879986129309,
+            "propagated": true
+        },
+        {
+            "frame_index": 1943,
+            "score": 0.5637130370657695,
+            "propagated": true
+        },
+        {
+            "frame_index": 1944,
+            "score": 0.5618380755186081,
+            "propagated": true
+        },
+        {
+            "frame_index": 1945,
+            "score": 0.5599631139714467,
+            "propagated": true
+        },
+        {
+            "frame_index": 1946,
+            "score": 0.5580881524242853,
+            "propagated": true
+        },
+        {
+            "frame_index": 1947,
+            "score": 0.5562131908771238,
+            "propagated": true
+        },
+        {
+            "frame_index": 1948,
+            "score": 0.5543382293299625,
+            "propagated": true
+        },
+        {
+            "frame_index": 1949,
+            "score": 0.5524632677828011,
+            "propagated": true
+        },
+        {
+            "frame_index": 1950,
+            "score": 0.5505883062356397,
+            "propagated": true
+        },
+        {
+            "frame_index": 1951,
+            "score": 0.5487133446884782,
+            "propagated": true
+        },
+        {
+            "frame_index": 1952,
+            "score": 0.5468383831413168,
+            "propagated": true
+        },
+        {
+            "frame_index": 1953,
+            "score": 0.5449634215941555,
+            "propagated": true
+        },
+        {
+            "frame_index": 1954,
+            "score": 0.5430884600469941,
+            "propagated": true
+        },
+        {
+            "frame_index": 1955,
+            "score": 0.5412134984998327,
+            "propagated": true
+        },
+        {
+            "frame_index": 1956,
+            "score": 0.5393385369526713,
+            "propagated": true
+        },
+        {
+            "frame_index": 1957,
+            "score": 0.5374635754055098,
+            "propagated": true
+        },
+        {
+            "frame_index": 1958,
+            "score": 0.5355886138583484,
+            "propagated": true
+        },
+        {
+            "frame_index": 1959,
+            "score": 0.5337136523111871,
+            "propagated": true
+        },
+        {
+            "frame_index": 1960,
+            "score": 0.5318386907640257,
+            "propagated": true
+        },
+        {
+            "frame_index": 1961,
+            "score": 0.5299637292168642,
+            "propagated": true
+        },
+        {
+            "frame_index": 1962,
+            "score": 0.5280887676697028,
+            "propagated": true
+        },
+        {
+            "frame_index": 1963,
+            "score": 0.5262138061225414,
+            "propagated": true
+        },
+        {
+            "frame_index": 1964,
+            "score": 0.52433884457538,
+            "propagated": true
+        },
+        {
+            "frame_index": 1965,
+            "score": 0.5224638830282187,
+            "propagated": true
+        },
+        {
+            "frame_index": 1966,
+            "score": 0.5205889214810572,
+            "propagated": true
+        },
+        {
+            "frame_index": 1967,
+            "score": 0.5187139599338958,
+            "propagated": true
+        },
+        {
+            "frame_index": 1968,
+            "score": 0.5168389983867344,
+            "propagated": true
+        },
+        {
+            "frame_index": 1969,
+            "score": 0.514964036839573,
+            "propagated": true
+        },
+        {
+            "frame_index": 1970,
+            "score": 0.5130890752924115,
+            "propagated": true
+        },
+        {
+            "frame_index": 1971,
+            "score": 0.5112141137452502,
+            "propagated": true
+        },
+        {
+            "frame_index": 1972,
+            "score": 0.5093391521980888,
+            "propagated": true
+        },
+        {
+            "frame_index": 1973,
+            "score": 0.5074641906509274,
+            "propagated": true
+        },
+        {
+            "frame_index": 1974,
+            "score": 0.505589229103766,
+            "propagated": true
+        },
+        {
+            "frame_index": 1975,
+            "score": 0.5037142675566046,
+            "propagated": true
+        },
+        {
+            "frame_index": 1976,
+            "score": 0.5018393060094432,
+            "propagated": true
+        }
+    ],
+    "stratified": [
+        {
+            "frame_index": 1151,
+            "score": 0.12135189366445207,
+            "propagated": true
+        },
+        {
+            "frame_index": 2197,
+            "score": 0.08152248991424578,
+            "propagated": true
+        },
+        {
+            "frame_index": 1131,
+            "score": 0.06490915242517203,
+            "propagated": true
+        },
+        {
+            "frame_index": 1407,
+            "score": 0.014110685309820015,
+            "propagated": true
+        },
+        {
+            "frame_index": 1485,
+            "score": 0.2639801721823843,
+            "propagated": true
+        },
+        {
+            "frame_index": 1357,
+            "score": 0.15521753840802005,
+            "propagated": true
+        },
+        {
+            "frame_index": 1346,
+            "score": 0.18626104608962413,
+            "propagated": true
+        },
+        {
+            "frame_index": 2246,
+            "score": 0.2413065701461675,
+            "propagated": true
+        },
+        {
+            "frame_index": 1312,
+            "score": 0.2822137061964002,
+            "propagated": true
+        },
+        {
+            "frame_index": 1223,
+            "score": 0.32454576212586017,
+            "propagated": true
+        },
+        {
+            "frame_index": 1224,
+            "score": 0.3273678991878242,
+            "propagated": true
+        },
+        {
+            "frame_index": 1268,
+            "score": 0.40638773692281627,
+            "propagated": true
+        },
+        {
+            "frame_index": 486,
+            "score": 0.4511744027075015,
+            "propagated": true
+        },
+        {
+            "frame_index": 616,
+            "score": 0.44253065593932805,
+            "propagated": true
+        },
+        {
+            "frame_index": 602,
+            "score": 0.4436957406762399,
+            "propagated": true
+        },
+        {
+            "frame_index": 2652,
+            "score": 0.448106586933136,
+            "propagated": true
+        },
+        {
+            "frame_index": 114,
+            "score": 0.6405161509388372,
+            "propagated": true
+        },
+        {
+            "frame_index": 98,
+            "score": 0.6369606648620806,
+            "propagated": true
+        },
+        {
+            "frame_index": 1791,
+            "score": 0.5976720518971744,
+            "propagated": true
+        },
+        {
+            "frame_index": 5,
+            "score": 0.6249608993530273,
+            "propagated": true
+        }
+    ]
+}
